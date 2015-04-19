@@ -15,11 +15,20 @@ Examples of common markdown patterns
 ![Chalk Board](images/chalk-board.jpg)
 ```
 
+or
+
+```
+![Chalk Board](http://francoislaberge.com/markdown/images/chalk-board.jpg)
+```
+
+
 ![Chalk Board](images/chalk-board.jpg)
 
 #### SVG
+Embedded SVGs only work if the svg file is hosted somewhere. We use the gh-page of this repo to host this example svg.
+
 ```
-![Android](svg/android.svg)
+![Android](http://francoislaberge.com/markdown/svg/android.svg)
 ```
 
-![Android](svg/android.svg)
+![Android](http://francoislaberge.com/markdown/svg/android.svg)
