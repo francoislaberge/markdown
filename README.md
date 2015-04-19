@@ -10,7 +10,16 @@ Examples of common markdown patterns
 ### Embedding Images
 
 #### Regular Images
+
+```
+![Chalk Board](images/chalk-board.jpg)
+```
+
 ![Chalk Board](images/chalk-board.jpg)
 
 #### SVG
-![Android](http://dev.w3.org/SVG/tools/svgweb/samples/svg-files/android.svg)
+```
+![Android](svg/android.svg)
+```
+
+![Android](svg/android.svg)
